@@ -35,6 +35,6 @@ Each project directory contains a README file with specific instructions on how 
 
 ## Contact
 
-If you have any questions, suggestions, or just want to connect, feel free to reach out to me at [your-email@example.com](mailto:ya.benosmane@gmail.com).
+If you have any questions, suggestions, or just want to connect, feel free to reach out to me at (mailto:ya.benosmane@gmail.com).
 
 Happy coding!
