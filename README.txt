@@ -26,8 +26,8 @@ Description: Analytical study of French commercial enterprises with R visualizat
 - **Project: [WebsiteEnigmatica]**
   Description: Website managing security vulnerabilities, user sessions, shopping cart, Ajax, registration, login, and the database
 
-- **Project: [WebDataVisualization](link-to-repository)**
-  Description: Integrating data visualizations into web applications, demonstrating my ability to combine web development and data representation.
+- **Project: [Filmaxium]**
+  Description: Filmaxium is a platform that catalogs all cinematographic works using the TMDB API. It features tools such as recommendations, AI integration, analytical visualizations, data comparisons, and Oscar predictions. This project showcases advanced functionalities, blending web development with sophisticated data analysis and AI.
 
 ## How to Use
 
